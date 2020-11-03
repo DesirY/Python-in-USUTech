@@ -1,0 +1,1029 @@
+{
+  "Denny - Blaine": {
+    "totalNumber": 2,
+    "top5": {
+      "Doulas": 1,
+      "Lawyers": 1
+    }
+  },
+  "Rainier View": {
+    "totalNumber": 7,
+    "top5": {
+      "Car Stereo Installation": 1,
+      "Costumes": 1,
+      "Electronics": 1,
+      "Junk Removal & Hauling": 1,
+      "Auto Parts & Supplies": 1
+    }
+  },
+  "Windermere": {
+    "totalNumber": 7,
+    "top5": {
+      "Art Classes": 1,
+      "Child Care & Day Care": 1,
+      "Accountants": 1,
+      "Elementary Schools": 1,
+      "Preschools": 1
+    }
+  },
+  "Hawthorne Hills": {
+    "totalNumber": 9,
+    "top5": {
+      "Churches": 1,
+      "Public Services & Government": 1,
+      "Art Schools": 1,
+      "Print Media": 1,
+      "Elementary Schools": 1
+    }
+  },
+  "North Beach": {
+    "totalNumber": 9,
+    "top5": {
+      "Packing Services": 1,
+      "Buses": 1,
+      "Public Transportation": 1,
+      "Reiki": 1,
+      "Movers": 1
+    }
+  },
+  "Harbor Island": {
+    "totalNumber": 20,
+    "top5": {
+      "Home Window Tinting": 1,
+      "Car Window Tinting": 1,
+      "Vehicle Shipping": 1,
+      "Paint Stores": 1,
+      "Metal Fabricators": 1
+    }
+  },
+  "Arbor Heights": {
+    "totalNumber": 27,
+    "top5": {
+      "Estate Liquidation": 1,
+      "Fabric Stores": 1,
+      "Home Organization": 1,
+      "Musical Instruments & Teachers": 1,
+      "Photo Booth Rentals": 1
+    }
+  },
+  "South Beacon Hill": {
+    "totalNumber": 33,
+    "top5": {
+      "Environmental Testing": 1,
+      "Machine & Tool Rental": 1,
+      "Home Inspectors": 1,
+      "Party Bus Rentals": 1,
+      "Imported Food": 1
+    }
+  },
+  "Yesler Terrace": {
+    "totalNumber": 39,
+    "top5": {
+      "Disability Law": 1,
+      "Honey": 1,
+      "Billing Services": 1,
+      "Hookah Bars": 1,
+      "Recreation Centers": 1
+    }
+  },
+  "Blue Ridge": {
+    "totalNumber": 40,
+    "top5": {
+      "Christmas Trees": 1,
+      "Furniture Reupholstery": 1,
+      "Hypnosis/Hypnotherapy": 1,
+      "Montessori Schools": 1,
+      "Pet Services": 1
+    }
+  },
+  "Broadmoor": {
+    "totalNumber": 41,
+    "top5": {
+      "Golf": 1,
+      "Beer Tours": 1,
+      "Parenting Classes": 1,
+      "Party Supplies": 1,
+      "Cooking Schools": 1
+    }
+  },
+  "Sand Point": {
+    "totalNumber": 41,
+    "top5": {
+      "Waldorf Schools": 1,
+      "Scavenger Hunts": 1,
+      "Playgrounds": 1,
+      "Community Gardens": 1,
+      "African": 1
+    }
+  },
+  "View Ridge": {
+    "totalNumber": 41,
+    "top5": {
+      "Clowns": 1,
+      "Billing Services": 1,
+      "Candy Stores": 1,
+      "Special Education": 1,
+      "Cooking Schools": 1
+    }
+  },
+  "Woodland": {
+    "totalNumber": 49,
+    "top5": {
+      "Zoos": 1,
+      "Botanical Gardens": 2,
+      "Food Court": 1,
+      "Souvenir Shops": 1,
+      "Comfort Food": 1
+    }
+  },
+  "Olympic Manor": {
+    "totalNumber": 53,
+    "top5": {
+      "Muay Thai": 1,
+      "Boxing": 1,
+      "Brazilian Jiu-jitsu": 1,
+      "Nurseries & Gardening": 2,
+      "Retirement Homes": 1
+    }
+  },
+  "Matthews Beach": {
+    "totalNumber": 55,
+    "top5": {
+      "Piano Services": 1,
+      "Face Painting": 1,
+      "Parks": 2,
+      "Rehabilitation Center": 1,
+      "Retirement Homes": 1
+    }
+  },
+  "Portage Bay": {
+    "totalNumber": 55,
+    "top5": {
+      "Hindu Temples": 1,
+      "Polish": 1,
+      "Amateur Sports Teams": 1,
+      "University Housing": 1,
+      "Musicians": 2
+    }
+  },
+  "Highland Park": {
+    "totalNumber": 58,
+    "top5": {
+      "Butcher": 1,
+      "Recycling Center": 1,
+      "Churches": 1,
+      "Junk Removal & Hauling": 2,
+      "Auto Detailing": 2
+    }
+  },
+  "Riverview": {
+    "totalNumber": 69,
+    "top5": {
+      "CSA": 1,
+      "Medical Transportation": 1,
+      "Candle Stores": 1,
+      "Herbs & Spices": 1,
+      "Pet Adoption": 1
+    }
+  },
+  "Jackson Place": {
+    "totalNumber": 74,
+    "top5": {
+      "Hybrid Car Repair": 1,
+      "Peruvian": 1,
+      "Shades & Blinds": 1,
+      "Internet Service Providers": 2,
+      "Chicken Shop": 1
+    }
+  },
+  "Genesee": {
+    "totalNumber": 77,
+    "top5": {
+      "Adoption Services": 1,
+      "Registration Services": 1,
+      "Utilities": 1,
+      "Packing Supplies": 2,
+      "Paddleboarding": 1
+    }
+  },
+  "High Point": {
+    "totalNumber": 82,
+    "top5": {
+      "Smog Check Stations": 1,
+      "Food": 1,
+      "Painters": 1,
+      "Magicians": 1,
+      "Food Banks": 1
+    }
+  },
+  "Lakewood": {
+    "totalNumber": 86,
+    "top5": {
+      "Security Systems": 1,
+      "Gutter Services": 1,
+      "Land Surveying": 1,
+      "Chinese Martial Arts": 1,
+      "Religious Organizations": 1
+    }
+  },
+  "Rainier Beach": {
+    "totalNumber": 87,
+    "top5": {
+      "Professional Sports Teams": 1,
+      "Latin American": 1,
+      "Cajun/Creole": 1,
+      "Religious Schools": 1,
+      "Botanical Gardens": 1
+    }
+  },
+  "Atlantic": {
+    "totalNumber": 88,
+    "top5": {
+      "CPR Classes": 1,
+      "Qi Gong": 1,
+      "Trains": 1,
+      "Do-It-Yourself Food": 1,
+      "Playgrounds": 1
+    }
+  },
+  "Seward Park": {
+    "totalNumber": 91,
+    "top5": {
+      "Gardeners": 1,
+      "Skilled Nursing": 1,
+      "Home Theatre Installation": 1,
+      "Landscaping": 2,
+      "Do-It-Yourself Food": 1
+    }
+  },
+  "Garfield": {
+    "totalNumber": 92,
+    "top5": {
+      "Cannabis Dispensaries": 1,
+      "Head Shops": 1,
+      "Christmas Trees": 1,
+      "Do-It-Yourself Food": 1,
+      "Waffles": 1
+    }
+  },
+  "Fauntleroy": {
+    "totalNumber": 95,
+    "top5": {
+      "Pet Cremation Services": 1,
+      "Tattoo Removal": 1,
+      "Elder Care Planning": 1,
+      "Karate": 1,
+      "Personal Care Services": 1
+    }
+  },
+  "Broadview": {
+    "totalNumber": 98,
+    "top5": {
+      "Beaches": 1,
+      "Gardeners": 1,
+      "Assisted Living Facilities": 2,
+      "Medical Transportation": 1,
+      "Musical Instrument Services": 1
+    }
+  },
+  "Leschi": {
+    "totalNumber": 100,
+    "top5": {
+      "Psychic Mediums": 1,
+      "Paddleboarding": 1,
+      "Pop-Up Restaurants": 1,
+      "Filipino": 1,
+      "Party Supplies": 1
+    }
+  },
+  "Montlake": {
+    "totalNumber": 103,
+    "top5": {
+      "Psychiatrists": 2,
+      "Midwives": 2,
+      "Bikes": 2,
+      "Landmarks & Historical Buildings": 2,
+      "Middle Schools & High Schools": 3
+    }
+  },
+  "Sunset Hill": {
+    "totalNumber": 105,
+    "top5": {
+      "IV Hydration": 2,
+      "Sailing": 2,
+      "Cuban": 2,
+      "Rafting/Kayaking": 2,
+      "Boating": 4
+    }
+  },
+  "Crown Hill": {
+    "totalNumber": 106,
+    "top5": {
+      "Bridal": 2,
+      "Veterinarians": 4,
+      "Pet Stores": 2,
+      "Pet Groomers": 2,
+      "Pet Training": 2
+    }
+  },
+  "Judkins Park": {
+    "totalNumber": 106,
+    "top5": {
+      "Ethiopian": 2,
+      "Public Services & Government": 2,
+      "Colleges & Universities": 3,
+      "Radio Stations": 2,
+      "Pet Training": 2
+    }
+  },
+  "Pinehurst": {
+    "totalNumber": 110,
+    "top5": {
+      "Imported Food": 2,
+      "Pediatricians": 2,
+      "Restaurants": 2,
+      "Tutoring Centers": 2,
+      "Gas Stations": 2
+    }
+  },
+  "Mt. Baker": {
+    "totalNumber": 112,
+    "top5": {
+      "Vietnamese": 3,
+      "Chinese": 2,
+      "Elementary Schools": 3,
+      "Italian": 2,
+      "Interior Design": 2
+    }
+  },
+  "South Delridge": {
+    "totalNumber": 125,
+    "top5": {
+      "Mobile Phone Repair": 2,
+      "Notaries": 2,
+      "Middle Schools & High Schools": 2,
+      "Airport Shuttles": 2,
+      "Auto Repair": 6
+    }
+  },
+  "Bryant": {
+    "totalNumber": 126,
+    "top5": {
+      "Test Preparation": 2,
+      "Hair Removal": 4,
+      "Children's Clothing": 2,
+      "Medical Spas": 2,
+      "Tutoring Centers": 2
+    }
+  },
+  "Holly Park": {
+    "totalNumber": 127,
+    "top5": {
+      "African": 2,
+      "Seafood Markets": 2,
+      "Vietnamese": 5,
+      "Couriers & Delivery Services": 2,
+      "Juice Bars & Smoothies": 2
+    }
+  },
+  "Meadowbrook": {
+    "totalNumber": 129,
+    "top5": {
+      "Special Education": 2,
+      "Cannabis Clinics": 2,
+      "Veterinarians": 4,
+      "Gas Stations": 2,
+      "Middle Schools & High Schools": 2
+    }
+  },
+  "Hillman City": {
+    "totalNumber": 141,
+    "top5": {
+      "Filipino": 2,
+      "Ethiopian": 3,
+      "Cantonese": 2,
+      "Funeral Services & Cemeteries": 2,
+      "Montessori Schools": 2
+    }
+  },
+  "Brighton": {
+    "totalNumber": 142,
+    "top5": {
+      "African": 2,
+      "Body Shops": 5,
+      "Ethiopian": 2,
+      "Restaurants": 3,
+      "Chicken Wings": 2
+    }
+  },
+  "Beacon Hill": {
+    "totalNumber": 143,
+    "top5": {
+      "Filipino": 2,
+      "International Grocery": 3,
+      "Meat Shops": 3,
+      "Dim Sum": 2,
+      "Oil Change Stations": 2
+    }
+  },
+  "Seaview": {
+    "totalNumber": 143,
+    "top5": {
+      "Payroll Services": 2,
+      "Sports Medicine": 2,
+      "Reiki": 2,
+      "Kitchen & Bath": 2,
+      "Weight Loss Centers": 2
+    }
+  },
+  "North Delridge": {
+    "totalNumber": 146,
+    "top5": {
+      "Summer Camps": 2,
+      "Pest Control": 3,
+      "Educational Services": 2,
+      "Videographers": 2,
+      "Venues & Event Spaces": 6
+    }
+  },
+  "Alki": {
+    "totalNumber": 152,
+    "top5": {
+      "Fish & Chips": 3,
+      "Museums": 3,
+      "Tutoring Centers": 2,
+      "Juice Bars & Smoothies": 2,
+      "Waxing": 4
+    }
+  },
+  "Gatewood": {
+    "totalNumber": 152,
+    "top5": {
+      "Telecommunications": 2,
+      "Arts & Entertainment": 2,
+      "Art Schools": 2,
+      "Specialty Schools": 2,
+      "Pet Sitting": 5
+    }
+  },
+  "Roxhill": {
+    "totalNumber": 158,
+    "top5": {
+      "Home Staging": 3,
+      "Electronics": 2,
+      "Department Stores": 3,
+      "Tanning": 2,
+      "Montessori Schools": 2
+    }
+  },
+  "Dunlap": {
+    "totalNumber": 167,
+    "top5": {
+      "Wigs": 2,
+      "Hair Extensions": 4,
+      "Ethiopian": 4,
+      "Discount Store": 2,
+      "Community Centers": 2
+    }
+  },
+  "South Park": {
+    "totalNumber": 176,
+    "top5": {
+      "Bus Tours": 2,
+      "Metal Fabricators": 6,
+      "Buses": 3,
+      "Public Transportation": 3,
+      "Body Shops": 4
+    }
+  },
+  "Central": {
+    "totalNumber": 188,
+    "top5": {
+      "Gay Bars": 4,
+      "Dance Clubs": 2,
+      "Permanent Makeup": 3,
+      "Office Cleaning": 2,
+      "Taxis": 2
+    }
+  },
+  "Whittier Heights": {
+    "totalNumber": 190,
+    "top5": {
+      "Pediatric Dentists": 3,
+      "Karaoke": 3,
+      "Naturopathic/Holistic": 6,
+      "Tax Services": 4,
+      "DJs": 2
+    }
+  },
+  "Laurelhurst": {
+    "totalNumber": 194,
+    "top5": {
+      "Office Cleaning": 2,
+      "Permanent Makeup": 2,
+      "Junk Removal & Hauling": 2,
+      "Home Cleaning": 2,
+      "Drugstores": 3
+    }
+  },
+  "Loyal Heights": {
+    "totalNumber": 208,
+    "top5": {
+      "Kitchen & Bath": 3,
+      "Preschools": 7,
+      "Dog Walkers": 6,
+      "Elementary Schools": 5,
+      "Pet Sitting": 5
+    }
+  },
+  "Little Saigon": {
+    "totalNumber": 211,
+    "top5": {
+      "Hot Pot": 4,
+      "International Grocery": 5,
+      "Szechuan": 3,
+      "Vietnamese": 17,
+      "Shopping Centers": 3
+    }
+  },
+  "Waterfront": {
+    "totalNumber": 215,
+    "top5": {
+      "Ferries": 5,
+      "Souvenir Shops": 4,
+      "Fish & Chips": 3,
+      "Seafood": 14,
+      "Local Flavor": 3
+    }
+  },
+  "Madison Valley": {
+    "totalNumber": 221,
+    "top5": {
+      "Children's Clothing": 3,
+      "Nutritionists": 4,
+      "Counseling & Mental Health": 17,
+      "Antiques": 3,
+      "Nail Salons": 5
+    }
+  },
+  "Madrona": {
+    "totalNumber": 221,
+    "top5": {
+      "Elementary Schools": 4,
+      "Photographers": 6,
+      "Performing Arts": 5,
+      "Home Decor": 3,
+      "Limos": 3
+    }
+  },
+  "Wedgwood": {
+    "totalNumber": 223,
+    "top5": {
+      "Musicians": 3,
+      "Wedding Planning": 4,
+      "Pubs": 4,
+      "Elementary Schools": 6,
+      "Middle Schools & High Schools": 3
+    }
+  },
+  "Fairmount Park": {
+    "totalNumber": 228,
+    "top5": {
+      "Weight Loss Centers": 5,
+      "Traditional Chinese Medicine": 4,
+      "Tours": 4,
+      "Nutritionists": 3,
+      "Auto Repair": 8
+    }
+  },
+  "Cedar Park": {
+    "totalNumber": 232,
+    "top5": {
+      "Greek": 3,
+      "Mediterranean": 3,
+      "Trainers": 3,
+      "Cosmetic Dentists": 3,
+      "Insurance": 7
+    }
+  },
+  "Madison Park": {
+    "totalNumber": 236,
+    "top5": {
+      "Toy Stores": 3,
+      "Hair Removal": 3,
+      "Day Spas": 4,
+      "Nail Salons": 4,
+      "Carpet Cleaning": 3
+    }
+  },
+  "North Queen Anne": {
+    "totalNumber": 256,
+    "top5": {
+      "Funeral Services & Cemeteries": 5,
+      "Self Storage": 4,
+      "Colleges & Universities": 4,
+      "Kitchen & Bath": 3,
+      "Hair Removal": 3
+    }
+  },
+  "Lower Queen Anne": {
+    "totalNumber": 268,
+    "top5": {
+      "Wine Bars": 3,
+      "Apartments": 31,
+      "Chinese": 3,
+      "Caterers": 3,
+      "Pizza": 5
+    }
+  },
+  "Olympic Hills": {
+    "totalNumber": 292,
+    "top5": {
+      "Auto Parts & Supplies": 8,
+      "Auto Glass Services": 4,
+      "Videographers": 3,
+      "Car Dealers": 5,
+      "Auto Detailing": 3
+    }
+  },
+  "North Beacon Hill": {
+    "totalNumber": 317,
+    "top5": {
+      "Grocery": 8,
+      "Burgers": 4,
+      "Venues & Event Spaces": 6,
+      "Mexican": 5,
+      "Medical Centers": 4
+    }
+  },
+  "Minor": {
+    "totalNumber": 325,
+    "top5": {
+      "Ethiopian": 5,
+      "Medical Centers": 10,
+      "Community Service/Non-Profit": 20,
+      "Doctors": 5,
+      "Child Care & Day Care": 4
+    }
+  },
+  "North College Park": {
+    "totalNumber": 331,
+    "top5": {
+      "Transmission Repair": 4,
+      "Home Health Care": 5,
+      "Nutritionists": 6,
+      "Colleges & Universities": 4,
+      "Doctors": 5
+    }
+  },
+  "Haller Lake": {
+    "totalNumber": 334,
+    "top5": {
+      "Doctors": 16,
+      "Internal Medicine": 5,
+      "Gas Stations": 4,
+      "Drugstores": 5,
+      "Middle Schools & High Schools": 4
+    }
+  },
+  "Bitter Lake": {
+    "totalNumber": 344,
+    "top5": {
+      "Car Dealers": 8,
+      "Body Shops": 6,
+      "Auto Repair": 11,
+      "Hotels": 4,
+      "Insurance": 6
+    }
+  },
+  "Phinney Ridge": {
+    "totalNumber": 363,
+    "top5": {
+      "Pubs": 8,
+      "Ice Cream & Frozen Yogurt": 4,
+      "Cosmetic Dentists": 4,
+      "Hair Stylists": 6,
+      "Desserts": 4
+    }
+  },
+  "Victory Heights": {
+    "totalNumber": 367,
+    "top5": {
+      "Cabinetry": 5,
+      "Car Dealers": 8,
+      "Chiropractors": 14,
+      "DJs": 4,
+      "Photographers": 12
+    }
+  },
+  "Roosevelt": {
+    "totalNumber": 399,
+    "top5": {
+      "Family Practice": 8,
+      "Doctors": 8,
+      "Reiki": 4,
+      "Naturopathic/Holistic": 12,
+      "Acupuncture": 18
+    }
+  },
+  "West Queen Anne": {
+    "totalNumber": 404,
+    "top5": {
+      "Laundry Services": 5,
+      "Skin Care": 9,
+      "Massage Therapy": 15,
+      "Home Decor": 5,
+      "Hair Stylists": 5
+    }
+  },
+  "Eastlake": {
+    "totalNumber": 418,
+    "top5": {
+      "Radio Stations": 6,
+      "Yoga": 5,
+      "Life Coach": 6,
+      "Traditional Chinese Medicine": 5,
+      "Massage": 10
+    }
+  },
+  "Admiral": {
+    "totalNumber": 420,
+    "top5": {
+      "Tours": 5,
+      "Day Spas": 5,
+      "Financial Advising": 7,
+      "Pizza": 8,
+      "Italian": 5
+    }
+  },
+  "Interbay": {
+    "totalNumber": 421,
+    "top5": {
+      "Seafood Markets": 5,
+      "Transportation": 6,
+      "Seafood": 14,
+      "Financial Advising": 13,
+      "Tours": 7
+    }
+  },
+  "Magnolia": {
+    "totalNumber": 440,
+    "top5": {
+      "Laundry Services": 6,
+      "Preschools": 11,
+      "Dog Walkers": 8,
+      "Insurance": 13,
+      "Nail Salons": 7
+    }
+  },
+  "Columbia City": {
+    "totalNumber": 454,
+    "top5": {
+      "Music Venues": 6,
+      "Child Care & Day Care": 7,
+      "Lounges": 5,
+      "Barbers": 5,
+      "Nail Salons": 6
+    }
+  },
+  "East Queen Anne": {
+    "totalNumber": 484,
+    "top5": {
+      "Real Estate Agents": 101,
+      "Food Trucks": 9,
+      "Life Coach": 5,
+      "Dog Walkers": 9,
+      "Session Photography": 13
+    }
+  },
+  "West Woodland": {
+    "totalNumber": 487,
+    "top5": {
+      "Breweries": 7,
+      "Carpet Cleaning": 7,
+      "Accountants": 6,
+      "Appliances & Repair": 6,
+      "Printing Services": 5
+    }
+  },
+  "Maple Leaf": {
+    "totalNumber": 573,
+    "top5": {
+      "Mortgage Brokers": 13,
+      "Real Estate Agents": 83,
+      "General Dentistry": 13,
+      "Real Estate Services": 14,
+      "Elementary Schools": 7
+    }
+  },
+  "Westlake": {
+    "totalNumber": 597,
+    "top5": {
+      "Boating": 9,
+      "Radio Stations": 9,
+      "Mortgage Brokers": 22,
+      "Commercial Real Estate": 6,
+      "Real Estate Services": 20
+    }
+  },
+  "Green Lake": {
+    "totalNumber": 614,
+    "top5": {
+      "Real Estate Agents": 60,
+      "Naturopathic/Holistic": 11,
+      "Counseling & Mental Health": 26,
+      "Real Estate Services": 14,
+      "Performing Arts": 9
+    }
+  },
+  "International District": {
+    "totalNumber": 643,
+    "top5": {
+      "Cantonese": 18,
+      "Dim Sum": 12,
+      "Bubble Tea": 7,
+      "Chinese": 17,
+      "Barbeque": 9
+    }
+  },
+  "Ravenna": {
+    "totalNumber": 656,
+    "top5": {
+      "Sports Wear": 8,
+      "Accessories": 23,
+      "Women's Clothing": 27,
+      "Shoe Stores": 8,
+      "Men's Clothing": 12
+    }
+  },
+  "Junction": {
+    "totalNumber": 680,
+    "top5": {
+      "Real Estate Agents": 70,
+      "Real Estate Services": 20,
+      "Session Photography": 14,
+      "Dog Walkers": 8,
+      "Event Photography": 9
+    }
+  },
+  "Georgetown": {
+    "totalNumber": 722,
+    "top5": {
+      "Building Supplies": 10,
+      "Nurseries & Gardening": 8,
+      "Furniture Stores": 25,
+      "Interior Design": 14,
+      "Antiques": 10
+    }
+  },
+  "Northgate": {
+    "totalNumber": 767,
+    "top5": {
+      "Real Estate Agents": 217,
+      "Shoe Stores": 13,
+      "Sports Wear": 8,
+      "Cosmetics & Beauty Supply": 12,
+      "Men's Clothing": 12
+    }
+  },
+  "Greenwood": {
+    "totalNumber": 770,
+    "top5": {
+      "Car Dealers": 10,
+      "Veterinarians": 8,
+      "Waxing": 10,
+      "Auto Repair": 23,
+      "Mexican": 10
+    }
+  },
+  "Denny Triangle": {
+    "totalNumber": 777,
+    "top5": {
+      "Employment Law": 10,
+      "Commercial Real Estate": 9,
+      "General Litigation": 9,
+      "Cosmetic Dentists": 8,
+      "Hotels": 11
+    }
+  },
+  "Uptown": {
+    "totalNumber": 785,
+    "top5": {
+      "Festivals": 24,
+      "Accountants": 9,
+      "Performing Arts": 19,
+      "Tax Services": 10,
+      "Personal Injury Law": 15
+    }
+  },
+  "South Lake Union": {
+    "totalNumber": 956,
+    "top5": {
+      "Salad": 11,
+      "Mortgage Brokers": 15,
+      "Food Trucks": 13,
+      "Hotels": 14,
+      "Venues & Event Spaces": 17
+    }
+  },
+  "Wallingford": {
+    "totalNumber": 983,
+    "top5": {
+      "Naturopathic/Holistic": 13,
+      "Real Estate Services": 21,
+      "Physical Therapy": 13,
+      "Hair Stylists": 11,
+      "Acupuncture": 21
+    }
+  },
+  "First Hill": {
+    "totalNumber": 1037,
+    "top5": {
+      "Obstetricians & Gynecologists": 17,
+      "Orthopedists": 21,
+      "Cosmetic Surgeons": 11,
+      "Doctors": 51,
+      "Internal Medicine": 20
+    }
+  },
+  "Pioneer Square": {
+    "totalNumber": 1064,
+    "top5": {
+      "Sports Bars": 11,
+      "Art Galleries": 48,
+      "Antiques": 12,
+      "Criminal Defense Law": 11,
+      "Lawyers": 131
+    }
+  },
+  "Industrial District": {
+    "totalNumber": 1214,
+    "top5": {
+      "Fruits & Veggies": 14,
+      "Hardware Stores": 16,
+      "Kitchen & Bath": 14,
+      "Printing Services": 19,
+      "Video/Film Production": 13
+    }
+  },
+  "University District": {
+    "totalNumber": 1322,
+    "top5": {
+      "Colleges & Universities": 27,
+      "Medical Centers": 14,
+      "Performing Arts": 20,
+      "Pizza": 15,
+      "Coffee & Tea": 29
+    }
+  },
+  "Fremont": {
+    "totalNumber": 1396,
+    "top5": {
+      "Massage Therapy": 63,
+      "Acupuncture": 41,
+      "Massage": 28,
+      "Naturopathic/Holistic": 18,
+      "Skin Care": 21
+    }
+  },
+  "Belltown": {
+    "totalNumber": 1457,
+    "top5": {
+      "Cocktail Bars": 16,
+      "Marketing": 30,
+      "Breakfast & Brunch": 24,
+      "Apartments": 69,
+      "Property Management": 15
+    }
+  },
+  "Ballard": {
+    "totalNumber": 1495,
+    "top5": {
+      "Cocktail Bars": 15,
+      "Breakfast & Brunch": 17,
+      "Women's Clothing": 19,
+      "Photographers": 15,
+      "Banks & Credit Unions": 16
+    }
+  },
+  "Capitol Hill": {
+    "totalNumber": 2181,
+    "top5": {
+      "Cocktail Bars": 34,
+      "Bars": 36,
+      "Apartments": 109,
+      "American (New)": 26,
+      "Real Estate Agents": 108
+    }
+  },
+  "Downtown": {
+    "totalNumber": 6616,
+    "top5": {
+      "Investing": 115,
+      "Personal Injury Law": 150,
+      "Lawyers": 679,
+      "Divorce & Family Law": 92,
+      "Jewelry": 110
+    }
+  }
+}
